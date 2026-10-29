@@ -1,0 +1,822 @@
+>Feature ZW32
+794	1450	gene
+			gene	rps3
+794	1450	CDS
+			codon_start	1
+			product	ribosomal protein S3
+			gene	rps3
+			transl_table	11
+1508	3082	gene
+			gene	rpl16
+1508	1516	CDS
+2681	3082
+			codon_start	1
+			product	ribosomal protein L16
+			gene	rpl16
+			transl_table	11
+3217	3585	gene
+			gene	rpl14
+3217	3585	CDS
+			codon_start	1
+			product	ribosomal protein L14
+			gene	rpl14
+			transl_table	11
+3940	4344	gene
+			gene	rps8
+3940	4344	CDS
+			codon_start	1
+			product	ribosomal protein S8
+			gene	rps8
+			transl_table	11
+4814	4927	gene
+			gene	rpl36
+4814	4927	CDS
+			codon_start	1
+			product	ribosomal protein L36
+			gene	rpl36
+			transl_table	11
+5502	5918	gene
+			gene	rps11
+5502	5918	CDS
+			codon_start	1
+			product	ribosomal protein S11
+			gene	rps11
+			transl_table	11
+6012	6998	gene
+			gene	rpoA
+6012	6998	CDS
+			codon_start	1
+			product	RNA polymerase alpha subunit
+			gene	rpoA
+			transl_table	11
+8434	7247	gene
+			gene	petD
+8434	8427	CDS
+7721	7247
+			codon_start	1
+			product	cytochrome b6/f complex subunit IV
+			gene	petD
+			transl_table	11
+10138	8653	gene
+			gene	petB
+10138	10133	CDS
+9306	8653
+			codon_start	1
+			product	cytochrome b6
+			gene	petB
+			transl_table	11
+10513	10292	gene
+			gene	psbH
+10513	10292	CDS
+			codon_start	1
+			product	photosystem II phosphoprotein
+			gene	psbH
+			transl_table	11
+10620	10751	gene
+			gene	psbN
+10620	10751	CDS
+			codon_start	1
+			product	photosystem II protein N
+			gene	psbN
+			transl_table	11
+10933	10817	gene
+			gene	psbT
+10933	10817	CDS
+			codon_start	1
+			product	photosystem II protein T
+			gene	psbT
+			transl_table	11
+12624	11098	gene
+			gene	psbB
+12624	11098	CDS
+			codon_start	1
+			product	photosystem II 47 kDa protein
+			gene	psbB
+			transl_table	11
+13115	15103	gene
+			gene	clpP
+13115	13185	CDS
+13987	14277
+14875	15103
+			codon_start	1
+			product	clp protease proteolytic subunit
+			gene	clpP
+			transl_table	11
+15294	15407	gene
+141916	142158
+			trans_splicing	
+			gene	rps12
+15294	15407	CDS
+141916	142158
+			codon_start	1
+			trans_splicing	
+			product	ribosomal protein S12
+			gene	rps12
+			transl_table	11
+15294	15407	gene
+100423	100181
+			trans_splicing	
+			gene	rps12
+15294	15407	CDS
+100423	100181
+			codon_start	1
+			trans_splicing	
+			product	ribosomal protein S12
+			gene	rps12
+			transl_table	11
+16234	16593	gene
+			gene	rpl20
+16234	16593	CDS
+			codon_start	1
+			product	ribosomal protein L20
+			gene	rpl20
+			transl_table	11
+17182	16868	gene
+			gene	rps18
+17182	16868	CDS
+			codon_start	1
+			product	ribosomal protein S18
+			gene	rps18
+			transl_table	11
+17616	17416	gene
+			gene	rpl33
+17616	17416	CDS
+			codon_start	1
+			product	ribosomal protein L33
+			gene	rpl33
+			transl_table	11
+18228	18100	gene
+			gene	psaJ
+18228	18100	CDS
+			codon_start	1
+			product	photosystem I subunit IX
+			gene	psaJ
+			transl_table	11
+18671	18744	gene
+			gene	trnP-UGG
+18671	18744	tRNA
+			product	tRNA-Pro
+			gene	trnP-UGG
+18938	19011	gene
+			gene	trnW-CCA
+18938	19011	tRNA
+			product	tRNA-Trp
+			gene	trnW-CCA
+19273	19160	gene
+			gene	petG
+19273	19160	CDS
+			codon_start	1
+			product	cytochrome b6/f complex subunit V
+			gene	petG
+			transl_table	11
+19552	19457	gene
+			gene	petL
+19552	19457	CDS
+			codon_start	1
+			product	cytochrome b6/f complex subunit VI
+			gene	petL
+			transl_table	11
+20903	21154	gene
+			gene	psbE
+20903	21154	CDS
+			codon_start	1
+			product	photosystem II cytochrome b559 alpha subunit
+			gene	psbE
+			transl_table	11
+21164	21283	gene
+			gene	psbF
+21164	21283	CDS
+			codon_start	1
+			product	photosystem II cytochrome b559 beta subunit
+			gene	psbF
+			transl_table	11
+21560	21682	gene
+			gene	psbJ
+21560	21682	CDS
+			codon_start	1
+			product	photosystem II protein J
+			gene	psbJ
+			transl_table	11
+23684	22722	gene
+			gene	petA
+23684	22722	CDS
+			codon_start	1
+			product	cytochrome f
+			gene	petA
+			transl_table	11
+24615	23926	gene
+			gene	cemA
+24615	23926	CDS
+			codon_start	1
+			product	chloroplast envelope membrane protein
+			gene	cemA
+			transl_table	11
+25604	25050	gene
+			gene	ycf4
+25604	25050	CDS
+			codon_start	1
+			product	photosystem I assembly protein ycf4
+			gene	ycf4
+			transl_table	11
+25910	25806	gene
+			gene	psaI
+25910	25806	CDS
+			codon_start	1
+			product	photosystem I subunit VIII
+			gene	psaI
+			transl_table	11
+27853	26375	gene
+			gene	accD
+27853	26375	CDS
+			codon_start	1
+			product	acetyl-CoA carboxylase beta subunit
+			gene	accD
+			transl_table	11
+29302	29231	gene
+			gene	trnQ-UUG
+29302	29231	tRNA
+			product	tRNA-Gln
+			gene	trnQ-UUG
+29829	30014	gene
+			gene	psbK
+29829	30014	CDS
+			codon_start	1
+			product	photosystem II protein K
+			gene	psbK
+			transl_table	11
+30530	30640	gene
+			gene	psbI
+30530	30640	CDS
+			codon_start	1
+			product	photosystem II protein I
+			gene	psbI
+			transl_table	11
+30878	30792	gene
+			gene	trnS-GCU
+30878	30792	tRNA
+			product	tRNA-Ser
+			gene	trnS-GCU
+32673	32744	gene
+			gene	trnR-UCU
+32673	32744	tRNA
+			product	tRNA-Arg
+			gene	trnR-UCU
+34570	33038	gene
+			gene	atpA
+34570	33038	CDS
+			codon_start	1
+			product	ATP synthase CF1 alpha subunit
+			gene	atpA
+			transl_table	11
+35982	34649	gene
+			gene	atpF
+35982	35823	CDS
+35055	34649
+			codon_start	1
+			product	ATP synthase CF0 subunit I
+			gene	atpF
+			transl_table	11
+36693	36448	gene
+			gene	atpH
+36693	36448	CDS
+			codon_start	1
+			product	ATP synthase CF0 subunit III
+			gene	atpH
+			transl_table	11
+38814	38071	gene
+			gene	atpI
+38814	38071	CDS
+			codon_start	1
+			product	ATP synthase CF0 subunit IV
+			gene	atpI
+			transl_table	11
+39741	39031	gene
+			gene	rps2
+39741	39031	CDS
+			codon_start	1
+			product	ribosomal protein S2
+			gene	rps2
+			transl_table	11
+44130	40003	gene
+			gene	rpoC2
+44130	40003	CDS
+			codon_start	1
+			product	RNA polymerase beta'' subunit
+			gene	rpoC2
+			transl_table	11
+47135	44307	gene
+			gene	rpoC1
+47135	46701	CDS
+45866	44307
+			codon_start	1
+			product	RNA polymerase beta' subunit
+			gene	rpoC1
+			transl_table	11
+50374	47162	gene
+			gene	rpoB
+50374	47162	CDS
+			codon_start	1
+			product	RNA polymerase beta subunit
+			gene	rpoB
+			transl_table	11
+51579	51658	gene
+			gene	trnC-GCA
+51579	51658	tRNA
+			product	tRNA-Cys
+			gene	trnC-GCA
+51994	52083	gene
+			gene	petN
+51994	52083	CDS
+			codon_start	1
+			product	cytochrome b6/f complex subunit VIII
+			gene	petN
+			transl_table	11
+53287	53183	gene
+			gene	psbM
+53287	53183	CDS
+			codon_start	1
+			product	photosystem II protein M
+			gene	psbM
+			transl_table	11
+53773	53700	gene
+			gene	trnD-GUC
+53773	53700	tRNA
+			product	tRNA-Asp
+			gene	trnD-GUC
+54369	54286	gene
+			gene	trnY-GUA
+54369	54286	tRNA
+			product	tRNA-Tyr
+			gene	trnY-GUA
+54502	54430	gene
+			gene	trnE-UUC
+54502	54430	tRNA
+			product	tRNA-Glu
+			gene	trnE-UUC
+55314	55385	gene
+			gene	trnT-GGU
+55314	55385	tRNA
+			product	tRNA-Thr
+			gene	trnT-GGU
+56911	57972	gene
+			gene	psbD
+56911	57972	CDS
+			codon_start	1
+			product	photosystem II protein D2
+			gene	psbD
+			transl_table	11
+57920	59341	gene
+			gene	psbC
+57920	59341	CDS
+			codon_start	1
+			product	photosystem II CP43 chlorophyll apoprotein
+			gene	psbC
+			transl_table	11
+59695	59604	gene
+			gene	trnS-UGA
+59695	59604	tRNA
+			product	tRNA-Ser
+			gene	trnS-UGA
+60063	60251	gene
+			gene	psbZ
+60063	60251	CDS
+			codon_start	1
+			product	photosystem II protein Z
+			gene	psbZ
+			transl_table	11
+61013	61083	gene
+			gene	trnG-UCC
+61013	61083	tRNA
+			product	tRNA-Gly
+			gene	trnG-UCC
+61278	61205	gene
+			gene	trnfM-CAU
+61278	61205	tRNA
+			product	tRNA-fMet
+			gene	trnfM-CAU
+61747	61445	gene
+			gene	rps14
+61747	61445	CDS
+			codon_start	1
+			product	ribosomal protein S14
+			gene	rps14
+			transl_table	11
+64095	61891	gene
+			gene	psaB
+64095	61891	CDS
+			codon_start	1
+			product	photosystem I P700 apoprotein A2
+			gene	psaB
+			transl_table	11
+66373	64121	gene
+			gene	psaA
+66373	64121	CDS
+			codon_start	1
+			product	photosystem I P700 apoprotein A1
+			gene	psaA
+			transl_table	11
+69256	67310	gene
+			gene	ycf3
+69256	69133	CDS
+68415	68186
+67459	67310
+			codon_start	1
+			product	photosystem I assembly protein Ycf3
+			gene	ycf3
+			transl_table	11
+69533	69620	gene
+			gene	trnS-GCU
+69533	69620	tRNA
+			product	tRNA-Ser
+			gene	trnS-GCU
+70438	69833	gene
+			gene	rps4
+70438	69833	CDS
+			codon_start	1
+			product	ribosomal protein S4
+			gene	rps4
+			transl_table	11
+70788	70716	gene
+			gene	trnT-UGU
+70788	70716	tRNA
+			product	tRNA-Thr
+			gene	trnT-UGU
+71710	72362	gene
+			gene	trnL-UAA
+71710	71746	tRNA
+72313	72362
+			product	tRNA-Leu
+			gene	trnL-UAA
+72723	72795	gene
+			gene	trnF-GAA
+72723	72795	tRNA
+			product	tRNA-Phe
+			gene	trnF-GAA
+74082	73606	gene
+			gene	ndhJ
+74082	73606	CDS
+			codon_start	1
+			product	NADH-plastoquinone oxidoreductase subunit J
+			gene	ndhJ
+			transl_table	11
+74909	74229	gene
+			gene	ndhK
+74909	74229	CDS
+			codon_start	1
+			product	NADH-plastoquinone oxidoreductase subunit K
+			gene	ndhK
+			transl_table	11
+75315	74953	gene
+			gene	ndhC
+75315	74953	CDS
+			codon_start	1
+			product	NADH-plastoquinone oxidoreductase subunit 3
+			gene	ndhC
+			transl_table	11
+76317	75656	gene
+			gene	trnV-UAC
+76317	76279	tRNA
+75692	75656
+			product	tRNA-Val
+			gene	trnV-UAC
+76506	76577	gene
+			gene	trnM-CAU
+76506	76577	tRNA
+			product	tRNA-Met
+			gene	trnM-CAU
+77119	76715	gene
+			gene	atpE
+77119	76715	CDS
+			codon_start	1
+			product	ATP synthase CF1 epsilon subunit
+			gene	atpE
+			transl_table	11
+78612	77116	gene
+			gene	atpB
+78612	77116	CDS
+			codon_start	1
+			product	ATP synthase CF1 beta subunit
+			gene	atpB
+			transl_table	11
+79420	80847	gene
+			gene	rbcL
+79420	80847	CDS
+			codon_start	1
+			product	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit
+			gene	rbcL
+			transl_table	11
+81599	84189	gene
+			gene	trnK-UUU
+81599	81635	tRNA
+84161	84189
+			product	tRNA-Lys
+			gene	trnK-UUU
+82331	83860	gene
+			gene	matK
+82331	83860	CDS
+			codon_start	1
+			product	maturase K
+			gene	matK
+			transl_table	11
+84557	85618	gene
+			gene	psbA
+84557	85618	CDS
+			codon_start	1
+			product	photosystem II protein D1
+			gene	psbA
+			transl_table	11
+85809	85883	gene
+			gene	trnH-GUG
+85809	85883	tRNA
+			product	tRNA-His
+			gene	trnH-GUG
+87506	86008	gene
+			gene	rpl2
+87506	87110	CDS
+86438	86008
+			codon_start	1
+			product	ribosomal protein L2
+			gene	rpl2
+			transl_table	11
+87806	87531	gene
+			gene	rpl23
+87806	87531	CDS
+			codon_start	1
+			product	ribosomal protein L23
+			gene	rpl23
+			transl_table	11
+88340	88267	gene
+			gene	trnI-CAU
+88340	88267	tRNA
+			product	tRNA-Ile
+			gene	trnI-CAU
+88429	95298	gene
+			gene	ycf2
+88429	95298	CDS
+			codon_start	1
+			product	Ycf2
+			gene	ycf2
+			transl_table	11
+95946	95866	gene
+			gene	trnL-CAA
+95946	95866	tRNA
+			product	tRNA-Leu
+			gene	trnL-CAA
+98704	96532	gene
+			gene	ndhB
+98704	97984	CDS
+97289	96532
+			codon_start	1
+			product	NADH-plastoquinone oxidoreductase subunit 2
+			gene	ndhB
+			transl_table	11
+99569	99102	gene
+			gene	rps7
+99569	99102	CDS
+			codon_start	1
+			product	ribosomal protein S7
+			gene	rps7
+			transl_table	11
+102325	102396	gene
+			gene	trnV-GAC
+102325	102396	tRNA
+			product	tRNA-Val
+			gene	trnV-GAC
+102628	104118	gene
+			gene	rrn16S
+102628	104118	rRNA
+			product	16S ribosomal RNA
+			gene	rrn16S
+104410	105434	gene
+			gene	trnI-GAU
+104410	104451	tRNA
+105400	105434
+			product	tRNA-Ile
+			gene	trnI-GAU
+105494	106361	gene
+			gene	trnA-UGC
+105494	105531	tRNA
+106327	106361
+			product	tRNA-Ala
+			gene	trnA-UGC
+106524	109338	gene
+			gene	rrn23S
+106524	109338	rRNA
+			product	23S ribosomal RNA
+			gene	rrn23S
+109437	109540	gene
+			gene	rrn4.5S
+109437	109540	rRNA
+			product	4.5S ribosomal RNA
+			gene	rrn4.5S
+109763	109883	gene
+			gene	rrn5S
+109763	109883	rRNA
+			product	5S ribosomal RNA
+			gene	rrn5S
+110147	110220	gene
+			gene	trnR-ACG
+110147	110220	tRNA
+			product	tRNA-Arg
+			gene	trnR-ACG
+110934	110863	gene
+			gene	trnN-GUU
+110934	110863	tRNA
+			product	tRNA-Asn
+			gene	trnN-GUU
+111309	116582	gene
+			gene	ycf1
+111309	116582	CDS
+			codon_start	1
+			product	hypothetical chloroplast RF1
+			gene	ycf1
+			transl_table	11
+111309	116582	CDS
+			codon_start	1
+			product	hypothetical chloroplast RF1
+			gene	ycf1
+			transl_table	11
+116991	117263	gene
+			gene	rps15
+116991	117263	CDS
+			codon_start	1
+			product	ribosomal protein S15
+			gene	rps15
+			transl_table	11
+117369	118550	gene
+			gene	ndhH
+117369	118550	CDS
+			codon_start	1
+			product	NADH-plastoquinone oxidoreductase subunit 7
+			gene	ndhH
+			transl_table	11
+118552	120978	gene
+			gene	ndhA
+118552	119104	CDS
+120440	120978
+			codon_start	1
+			product	NADH-plastoquinone oxidoreductase subunit 1
+			gene	ndhA
+			transl_table	11
+121057	121545	gene
+			gene	ndhI
+121057	121545	CDS
+			codon_start	1
+			product	NADH-plastoquinone oxidoreductase subunit I
+			gene	ndhI
+			transl_table	11
+122072	122602	gene
+			gene	ndhG
+122072	122602	CDS
+			codon_start	1
+			product	NADH-plastoquinone oxidoreductase subunit 6
+			gene	ndhG
+			transl_table	11
+122834	123139	gene
+			gene	ndhE
+122834	123139	CDS
+			codon_start	1
+			product	NADH-plastoquinone oxidoreductase subunit 4L
+			gene	ndhE
+			transl_table	11
+123450	123695	gene
+			gene	psaC
+123450	123695	CDS
+			codon_start	1
+			product	photosystem I subunit VII
+			gene	psaC
+			transl_table	11
+123842	125341	gene
+			gene	ndhD
+123842	125341	CDS
+			codon_start	1
+			product	NADH-plastoquinone oxidoreductase subunit 4
+			gene	ndhD
+			transl_table	11
+126664	125693	gene
+			gene	ccsA
+126664	125693	CDS
+			codon_start	1
+			product	cytochrome c heme attachment protein
+			gene	ccsA
+			transl_table	11
+126835	126756	gene
+			gene	trnL-UAG
+126835	126756	tRNA
+			product	tRNA-Leu
+			gene	trnL-UAG
+127705	127559	gene
+			gene	rpl32
+127705	127559	CDS
+			codon_start	1
+			product	ribosomal protein L32
+			gene	rpl32
+			transl_table	11
+128319	130577	gene
+			gene	ndhF
+128319	130577	CDS
+			codon_start	1
+			product	NADH-plastoquinone oxidoreductase subunit 5
+			gene	ndhF
+			transl_table	11
+131030	130563	gene
+			gene	ycf1
+131030	130563	CDS
+			codon_start	1
+			product	hypothetical chloroplast RF1
+			gene	ycf1
+			transl_table	11
+131405	131476	gene
+			gene	trnN-GUU
+131405	131476	tRNA
+			product	tRNA-Asn
+			gene	trnN-GUU
+132192	132119	gene
+			gene	trnR-ACG
+132192	132119	tRNA
+			product	tRNA-Arg
+			gene	trnR-ACG
+132576	132456	gene
+			gene	rrn5S
+132576	132456	rRNA
+			product	5S ribosomal RNA
+			gene	rrn5S
+132902	132799	gene
+			gene	rrn4.5S
+132902	132799	rRNA
+			product	4.5S ribosomal RNA
+			gene	rrn4.5S
+135815	133001	gene
+			gene	rrn23S
+135815	133001	rRNA
+			product	23S ribosomal RNA
+			gene	rrn23S
+136845	135978	gene
+			gene	trnA-UGC
+136845	136808	tRNA
+136012	135978
+			product	tRNA-Ala
+			gene	trnA-UGC
+137929	136905	gene
+			gene	trnI-GAU
+137929	137888	tRNA
+136939	136905
+			product	tRNA-Ile
+			gene	trnI-GAU
+139711	138221	gene
+			gene	rrn16S
+139711	138221	rRNA
+			product	16S ribosomal RNA
+			gene	rrn16S
+140014	139943	gene
+			gene	trnV-GAC
+140014	139943	tRNA
+			product	tRNA-Val
+			gene	trnV-GAC
+142770	143237	gene
+			gene	rps7
+142770	143237	CDS
+			codon_start	1
+			product	ribosomal protein S7
+			gene	rps7
+			transl_table	11
+143635	145807	gene
+			gene	ndhB
+143635	144355	CDS
+145050	145807
+			codon_start	1
+			product	NADH-plastoquinone oxidoreductase subunit 2
+			gene	ndhB
+			transl_table	11
+146393	146473	gene
+			gene	trnL-CAA
+146393	146473	tRNA
+			product	tRNA-Leu
+			gene	trnL-CAA
+153910	147041	gene
+			gene	ycf2
+153910	147041	CDS
+			codon_start	1
+			product	Ycf2
+			gene	ycf2
+			transl_table	11
+153999	154072	gene
+			gene	trnI-CAU
+153999	154072	tRNA
+			product	tRNA-Ile
+			gene	trnI-CAU
+154533	154808	gene
+			gene	rpl23
+154533	154808	CDS
+			codon_start	1
+			product	ribosomal protein L23
+			gene	rpl23
+			transl_table	11
+154833	156331	gene
+			gene	rpl2
+154833	155229	CDS
+155901	156331
+			codon_start	1
+			product	ribosomal protein L2
+			gene	rpl2
+			transl_table	11
